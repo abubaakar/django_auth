@@ -1,0 +1,3 @@
+EMAIL_USER = 'admin@abubakar.com'
+EMAIL_PASS = 'hello'
+EMAIL_FROM = 'admin@abubakar.com'
